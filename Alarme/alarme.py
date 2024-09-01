@@ -1,6 +1,7 @@
 import time
 import playsound
 
+
 def set_alarm(alarm_time):
     print(f"Alarme definido para {alarm_time}")
 
@@ -15,4 +16,3 @@ def set_alarm(alarm_time):
 
 alarm_time = input("Defina a hora do alarme (HH:MM:SS): ")
 set_alarm(alarm_time)
-
