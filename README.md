@@ -2,6 +2,7 @@
 # ProjetosPython
 
 Esse é um repositório para adição de pequenos projetos realizados em Python para o estudo e conhecimento da linguagem.
+O intuito é se familiarizar com a linguagem Python para um desevolvimento de um projeto em Django em breve.
 
 # 📚 Projetos
 
